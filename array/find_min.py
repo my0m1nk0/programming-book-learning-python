@@ -7,5 +7,7 @@ minium = list[0];
 for x in list:
     if minium > x :
         minium = x
+    
+
 
 print("MIN number in array is",minium)
