@@ -6,7 +6,6 @@ output = True
 try:
     firstnum = int(firstnum)
     secondnum = int(secondnum)
-    
     if(operator == "+"):
         result = firstnum + secondnum
     elif(operator == "-"):
