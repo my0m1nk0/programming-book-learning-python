@@ -1,4 +1,4 @@
-from impl_stack import Stack
+from stack_class.impl_stack import Stack
 
 def par_checker(symbolString):
 # str = arr => character of square brackets
