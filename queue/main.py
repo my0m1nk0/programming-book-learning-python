@@ -13,6 +13,13 @@ if __name__ == '__main__':
     p.enqueue("O", 3)
     p.enqueue("Sample", 9)
 
+# items = {
+#     1 : ["HELLO"],
+#     2 : ["H"],
+#     3 : ["E"],
+#     5 : ["E"],
+#     9 : ["Sample"],
+# }
     # 7
     print(p.size())
 
